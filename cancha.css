@@ -1,0 +1,54 @@
+.contenedor{
+	background-color: green;
+	border: 1px solid green;
+	width: 900px;
+	height: 600px;
+}
+.franja{
+	margin: 100px;
+	border: 1px solid white;
+	width: 700px;
+	height: 400px;
+}
+.arco{
+
+	width: 100px;
+	height: 190px;
+	border: 1px solid white;
+}
+.der{
+	margin-top: 100px;
+	float: left;
+}
+.izq{
+	border: 1px solid white;
+	margin top: -300x;
+	margin-right: -600px;
+    float: right;
+
+}
+
+
+.circulo{
+	border-radius: 90px;
+	border: 1px solid white;
+	width: 150px;
+	height: 150px;
+	margin-left: -300px;
+}
+#ball1{
+	left: 90px;
+	position: relative;
+	top: 5px;
+}
+#ball2{
+	position: relative;
+	left: -30px;
+	top: 150px;
+	}
+#ball3{
+	top: -70px;
+	position: relative;
+	right: -70px;
+
+}
